@@ -21,3 +21,12 @@
     background-color: #9575cd;
     color: floralwhite;
 }
+
+body{
+    padding-top: 50px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: #512dab;
+}
